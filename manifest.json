@@ -1,13 +1,1 @@
-{
-  "short_name": "PM-POS3",
-  "name": "PM-POS 3.0",
-  "icons": [{
-    "src": "favicon.ico",
-    "sizes": "64x64",
-    "type": "image/png"
-  }],
-  "start_url": "./",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
+{"name":"Emre'nin Yeri","short_name":"Emre Eren","start_url":"/","background_color":"#f7f7f7","theme_color":"#191919","display":"minimal-ui"}
